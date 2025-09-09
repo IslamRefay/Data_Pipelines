@@ -1,1 +1,1 @@
-# Data_Pipelines
+# my_dbt_duckdb_project
